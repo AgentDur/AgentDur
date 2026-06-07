@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Vasilii 👋
 
-<!--
-**AgentDur/AgentDur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Marine robotics & embedded systems developer from Saint Petersburg.
 
-Here are some ideas to get you started:
+Currently building **AQUABRAIN** — an autonomous marine monitoring platform focused on LoRa communication, telemetry and autonomous systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+
+* Embedded systems
+* ESP32 / Heltec LoRa V3
+* Arduino
+* ROS2 Jazzy
+* Autonomous marine robotics
+* Telemetry systems
+* Raspberry Pi 5
+
+---
+
+## Current Project — AQUABRAIN
+
+A lightweight autonomous platform for:
+
+* environmental monitoring
+* telemetry collection
+* autonomous navigation
+* long-range LoRa communication
+
+Current milestone:
+
+* heartbeat-based safety layer validated on hardware ✅
+
+---
+
+## Tech Stack
+
+```text
+C++ • ESP32 • Arduino • ROS2 • Linux • LoRa • Raspberry Pi
+```
+
+---
+
+## Current Mission
+
+Prevent heartbeat-induced self-destruction of the vessel.
+
+---
+
+## GitHub Stats
+
+Learning by building real hardware systems instead of tutorial projects 😄
