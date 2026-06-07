@@ -2,51 +2,44 @@
 
 Marine robotics & embedded systems developer from Saint Petersburg.
 
-Currently building **AQUABRAIN** — an autonomous marine monitoring platform focused on LoRa communication, telemetry and autonomous systems.
-
----
-
-## Current Focus
-
-* Embedded systems
-* ESP32 / Heltec LoRa V3
-* Arduino
-* ROS2 Jazzy
-* Autonomous marine robotics
-* Telemetry systems
-* Raspberry Pi 5
+Currently building **AQUABRAIN** — an autonomous surface vehicle for environmental monitoring of small water bodies.
 
 ---
 
 ## Current Project — AQUABRAIN
 
-A lightweight autonomous platform for:
+Lightweight autonomous platform focused on:
 
-* environmental monitoring
-* telemetry collection
-* autonomous navigation
-* long-range LoRa communication
+- LoRa communication & telemetry
+- Embedded safety systems
+- Autonomous navigation
+- Environmental monitoring
 
-Current milestone:
-
-* heartbeat-based safety layer validated on hardware ✅
+**Current milestone:**
+- Heartbeat-based link failsafe validated on hardware ✅
+- MVP LoRa communication layer operational ✅
+- Preventing heartbeat-induced self-destruction of the vessel ✅
 
 ---
 
 ## Tech Stack
 
-```text
-C++ • ESP32 • Arduino • ROS2 • Linux • LoRa • Raspberry Pi
+```
+C++ • ESP32 • Arduino • Heltec LoRa V3 • Raspberry Pi 5
+ROS2 • Linux • LoRa • Embedded systems
 ```
 
 ---
 
-## Current Mission
+## About
 
-Prevent heartbeat-induced self-destruction of the vessel.
+5 repositories. All real hardware. Zero tutorial projects.
+
+3rd year student @ Saint Petersburg State Marine Technical University  
+Specialization: Control in Technical Systems
+
+Saint Petersburg → UAE (in progress)
 
 ---
 
-## GitHub Stats
-
-Learning by building real hardware systems instead of tutorial projects 😄
+*AQUABRAIN engineering team: Vasilii · Chloe · BUOY*
